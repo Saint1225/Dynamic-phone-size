@@ -1,5 +1,6 @@
 # Dynamic-phone-size
 
+Screen size changable phone with wiggle/turn around animation
 HTML(Pug) / CSS(SASS) / JavaScript(jQuery for button clicking function)
 
 CodePen URL: https://codepen.io/vincent1225/full/oNbWRKB
